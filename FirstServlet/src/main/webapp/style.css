@@ -1,0 +1,13 @@
+body{
+    font-family: "PT Sans";
+    font-size: 20px;
+    color: #444444;
+    text-align: left;
+}
+button {
+    background-color: #CCCCCC;
+    border-radius: 5px
+}
+hr{
+    width: 100%;
+}
