@@ -7,7 +7,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e3b79bf-b069-47bb-8cdf-f0c4c67c7cec" name="Default Changelist" comment="" />
+    <list default="true" id="9e3b79bf-b069-47bb-8cdf-f0c4c67c7cec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +75,7 @@
           <entry key="java" value="1752" />
           <entry key="js" value="357" />
           <entry key="jsp" value="1108" />
-          <entry key="txt" value="19" />
+          <entry key="txt" value="29" />
           <entry key="xml" value="377" />
         </counts>
       </usages-collector>
@@ -83,7 +85,7 @@
           <entry key="JAVA" value="1752" />
           <entry key="JSP" value="1108" />
           <entry key="JavaScript" value="357" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="29" />
           <entry key="XML" value="377" />
         </counts>
       </usages-collector>
@@ -303,7 +305,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539200182485" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539200257818" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -648,7 +650,7 @@
       <workItem from="1539160589195" duration="2113000" />
       <workItem from="1539169982209" duration="4423000" />
       <workItem from="1539178805281" duration="1246000" />
-      <workItem from="1539182533219" duration="5199000" />
+      <workItem from="1539182533219" duration="5454000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1539199892834</created>
@@ -657,11 +659,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539199892834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st commit">
+      <created>1539200187193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539200187193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2st commit">
+      <created>1539200237556</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539200237556</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82699000" />
+    <option name="totallyTimeSpent" value="82954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -710,7 +726,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="2st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2st commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam_lab/first_servlet/FirstServletTest.java" />

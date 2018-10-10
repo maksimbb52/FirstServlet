@@ -1,6 +1,8 @@
-1. mvn package из корня проекта
-2. war-файл из FirstServlet/target перенести в папку с Tomcat, в папку webapp
-3. запустить из папки с Tomcat, мз папки bin файл startup.bat или startup.sh
-4. в адресной строке прописать localhost:8080
+1. mvn package РёР· РєРѕСЂРЅСЏ РїСЂРѕРµРєС‚Р°
+2. war-С„Р°Р№Р» РёР· FirstServlet/target РїРµСЂРµРЅРµСЃС‚Рё РІ РїР°РїРєСѓ СЃ Tomcat, РІ РїР°РїРєСѓ webapp
+3. Р·Р°РїСѓСЃС‚РёС‚СЊ РёР· РїР°РїРєРё СЃ Tomcat, РјР· РїР°РїРєРё bin С„Р°Р№Р» startup.bat РёР»Рё startup.sh
+4. РІ Р°РґСЂРµСЃРЅРѕР№ СЃС‚СЂРѕРєРµ РїСЂРѕРїРёСЃР°С‚СЊ localhost:8080
 
-Программа выводит результат в java классе, а не в jsp файле, поскольку возникли трудности с методом XMLHttpRequest.send для сетодов PUT и DELETE (ошибка 405 - XMLHttoRequest.send not allowed).
+РџСЂРѕРіСЂР°РјРјР° РІС‹РІРѕРґРёС‚ СЂРµР·СѓР»СЊС‚Р°С‚ РІ java РєР»Р°СЃСЃРµ, Р° РЅРµ РІ jsp С„Р°Р№Р»Рµ,
+ РїРѕСЃРєРѕР»СЊРєСѓ РІРѕР·РЅРёРєР»Рё С‚СЂСѓРґРЅРѕСЃС‚Рё СЃ РјРµС‚РѕРґРѕРј XMLHttpRequest.send РґР»СЏ СЃРµС‚РѕРґРѕРІ PUT Рё DELETE
+ (РѕС€РёР±РєР° 405 - XMLHttoRequest.send not allowed).
