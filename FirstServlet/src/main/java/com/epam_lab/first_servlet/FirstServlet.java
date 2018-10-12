@@ -18,6 +18,9 @@ public class FirstServlet extends HttpServlet {
             throws java.io.IOException, ServletException {
         state += "1";
         res.getWriter().write("State is: " + state + "<br/>");
+        req.setAttribute("state", state);
+        req.getDispatcherType("/WEB-INF/jsp/index.jsp").forward(req, res);
+
         printCookies(req, res);
     }
 

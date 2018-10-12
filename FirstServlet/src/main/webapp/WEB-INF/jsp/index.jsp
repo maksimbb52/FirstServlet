@@ -16,7 +16,7 @@
 </div>
 <div id = "output">
     <h4>
-
+        State is: ${state}
     </h4>
 </div>
 </body>
