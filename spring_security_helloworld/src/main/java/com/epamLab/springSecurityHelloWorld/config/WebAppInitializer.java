@@ -1,4 +1,4 @@
-package com.epamLab.springSecurityHelloWorld.config;
+    package com.epamLab.springSecurityHelloWorld.config;
 
 //Import section ommited...
 
